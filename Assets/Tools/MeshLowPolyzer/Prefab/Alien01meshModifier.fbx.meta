@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: d6e8b3b914900e94da1f2bc5e8f05e43
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: alien01_eye_01SHJ
+    100004: alien01_eye_pils
+    100006: alien01_head_JawEndSHJ
+    100008: alien01_head_JawSHJ
+    100010: alien01_head_TopSHJ
+    100012: alien01_l_tentacle_01_01_01SHJ
+    100014: alien01_l_tentacle_01_01_02SHJ
+    100016: alien01_l_tentacle_01_01_03SHJ
+    100018: alien01_l_tentacle_02_01_01SHJ
+    100020: alien01_l_tentacle_02_01_02SHJ
+    100022: alien01_l_tentacle_02_01_03SHJ
+    100024: alien01_l_tentacle_03_01_01SHJ
+    100026: alien01_l_tentacle_03_01_02SHJ
+    100028: alien01_l_tentacle_03_01_03SHJ
+    100030: alien01_l_tentacle_04_01_01SHJ
+    100032: alien01_l_tentacle_04_01_02SHJ
+    100034: alien01_l_tentacle_04_01_03SHJ
+    100036: alien01_l_tentacle_head_01_01SHJ
+    100038: alien01_l_tentacle_head_01_02SHJ
+    100040: alien01_l_tentacle_head_01_03SHJ
+    100042: alien01_l_tentacle_head_02_01SHJ
+    100044: alien01_l_tentacle_head_02_02SHJ
+    100046: alien01_l_tentacle_head_02_03SHJ
+    100048: alien01_l_tentacle_head_03_01SHJ
+    100050: alien01_l_tentacle_head_03_02SHJ
+    100052: alien01_l_tentacle_head_03_03SHJ
+    100054: alien01_r_tentacle_01_01_01SHJ
+    100056: alien01_r_tentacle_01_01_02SHJ
+    100058: alien01_r_tentacle_01_01_03SHJ
+    100060: alien01_r_tentacle_02_01_01SHJ
+    100062: alien01_r_tentacle_02_01_02SHJ
+    100064: alien01_r_tentacle_02_01_03SHJ
+    100066: alien01_r_tentacle_03_01_01SHJ
+    100068: alien01_r_tentacle_03_01_02SHJ
+    100070: alien01_r_tentacle_03_01_03SHJ
+    100072: alien01_r_tentacle_04_01_01SHJ
+    100074: alien01_r_tentacle_04_01_02SHJ
+    100076: alien01_r_tentacle_04_01_03SHJ
+    100078: alien01_r_tentacle_head_01_01SHJ
+    100080: alien01_r_tentacle_head_01_02SHJ
+    100082: alien01_r_tentacle_head_01_03SHJ
+    100084: alien01_r_tentacle_head_02_01SHJ
+    100086: alien01_r_tentacle_head_02_02SHJ
+    100088: alien01_r_tentacle_head_02_03SHJ
+    100090: alien01_r_tentacle_head_03_01SHJ
+    100092: alien01_r_tentacle_head_03_02SHJ
+    100094: alien01_r_tentacle_head_03_03SHJ
+    100096: alien01_ROOTSHJ
+    100098: alien01_spine_01SHJ
+    100100: alien01_spine_02SHJ
+    100102: alien01_spine_03SHJ
+    100104: alien01_spine_04SHJ
+    100106: alien01_spine_TopSHJ
+    100108: alien01_tentacle04bis_01_01SHJ
+    100110: alien01_tentacle04bis_01_02SHJ
+    100112: alien01_tentacle04bis_01_03SHJ
+    100114: alien1
+    100116: Oeil
+    100118: Paupiere
+    100120: pointLight1
+    400000: //RootNode
+    400002: alien01_eye_01SHJ
+    400004: alien01_eye_pils
+    400006: alien01_head_JawEndSHJ
+    400008: alien01_head_JawSHJ
+    400010: alien01_head_TopSHJ
+    400012: alien01_l_tentacle_01_01_01SHJ
+    400014: alien01_l_tentacle_01_01_02SHJ
+    400016: alien01_l_tentacle_01_01_03SHJ
+    400018: alien01_l_tentacle_02_01_01SHJ
+    400020: alien01_l_tentacle_02_01_02SHJ
+    400022: alien01_l_tentacle_02_01_03SHJ
+    400024: alien01_l_tentacle_03_01_01SHJ
+    400026: alien01_l_tentacle_03_01_02SHJ
+    400028: alien01_l_tentacle_03_01_03SHJ
+    400030: alien01_l_tentacle_04_01_01SHJ
+    400032: alien01_l_tentacle_04_01_02SHJ
+    400034: alien01_l_tentacle_04_01_03SHJ
+    400036: alien01_l_tentacle_head_01_01SHJ
+    400038: alien01_l_tentacle_head_01_02SHJ
+    400040: alien01_l_tentacle_head_01_03SHJ
+    400042: alien01_l_tentacle_head_02_01SHJ
+    400044: alien01_l_tentacle_head_02_02SHJ
+    400046: alien01_l_tentacle_head_02_03SHJ
+    400048: alien01_l_tentacle_head_03_01SHJ
+    400050: alien01_l_tentacle_head_03_02SHJ
+    400052: alien01_l_tentacle_head_03_03SHJ
+    400054: alien01_r_tentacle_01_01_01SHJ
+    400056: alien01_r_tentacle_01_01_02SHJ
+    400058: alien01_r_tentacle_01_01_03SHJ
+    400060: alien01_r_tentacle_02_01_01SHJ
+    400062: alien01_r_tentacle_02_01_02SHJ
+    400064: alien01_r_tentacle_02_01_03SHJ
+    400066: alien01_r_tentacle_03_01_01SHJ
+    400068: alien01_r_tentacle_03_01_02SHJ
+    400070: alien01_r_tentacle_03_01_03SHJ
+    400072: alien01_r_tentacle_04_01_01SHJ
+    400074: alien01_r_tentacle_04_01_02SHJ
+    400076: alien01_r_tentacle_04_01_03SHJ
+    400078: alien01_r_tentacle_head_01_01SHJ
+    400080: alien01_r_tentacle_head_01_02SHJ
+    400082: alien01_r_tentacle_head_01_03SHJ
+    400084: alien01_r_tentacle_head_02_01SHJ
+    400086: alien01_r_tentacle_head_02_02SHJ
+    400088: alien01_r_tentacle_head_02_03SHJ
+    400090: alien01_r_tentacle_head_03_01SHJ
+    400092: alien01_r_tentacle_head_03_02SHJ
+    400094: alien01_r_tentacle_head_03_03SHJ
+    400096: alien01_ROOTSHJ
+    400098: alien01_spine_01SHJ
+    400100: alien01_spine_02SHJ
+    400102: alien01_spine_03SHJ
+    400104: alien01_spine_04SHJ
+    400106: alien01_spine_TopSHJ
+    400108: alien01_tentacle04bis_01_01SHJ
+    400110: alien01_tentacle04bis_01_02SHJ
+    400112: alien01_tentacle04bis_01_03SHJ
+    400114: alien1
+    400116: Oeil
+    400118: Paupiere
+    400120: pointLight1
+    2300000: Oeil
+    2300002: Paupiere
+    3300000: Oeil
+    3300002: Paupiere
+    4300000: alien1
+    4300002: Oeil
+    4300004: Paupiere
+    7400000: befor_pop
+    7400002: pop
+    7400004: hit
+    7400006: idle01
+    7400008: idle_01
+    7400010: idel_03
+    7400012: idle02
+    7400014: idle03
+    7400016: big_it
+    7400018: hit_stars
+    7400020: Take 001
+    7400022: idle_04
+    9500000: //RootNode
+    13700000: alien1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: befor_pop
+      takeName: Take 001
+      firstFrame: 383
+      lastFrame: 384
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: pop
+      takeName: Take 001
+      firstFrame: 383
+      lastFrame: 520
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit
+      takeName: Take 001
+      firstFrame: 414
+      lastFrame: 513
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .0682926998
+        functionName: CZeroEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .783783793
+        functionName: CZeroEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle01
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle02
+      takeName: Take 001
+      firstFrame: 144
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle03
+      takeName: Take 001
+      firstFrame: 197
+      lastFrame: 215
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: big_it
+      takeName: Take 001
+      firstFrame: 421
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit_stars
+      takeName: Take 001
+      firstFrame: 418
+      lastFrame: 444
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 285
+      lastFrame: 285.100006
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle_04
+      takeName: Take 001
+      firstFrame: 47
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: alien1
+        weight: 1
+      - path: alien01_ROOTSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_l_tentacle_01_01_01SHJ/alien01_l_tentacle_01_01_02SHJ/alien01_l_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_r_tentacle_01_01_01SHJ/alien01_r_tentacle_01_01_02SHJ/alien01_r_tentacle_01_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_l_tentacle_02_01_01SHJ/alien01_l_tentacle_02_01_02SHJ/alien01_l_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_r_tentacle_02_01_01SHJ/alien01_r_tentacle_02_01_02SHJ/alien01_r_tentacle_02_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_l_tentacle_03_01_01SHJ/alien01_l_tentacle_03_01_02SHJ/alien01_l_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_r_tentacle_03_01_01SHJ/alien01_r_tentacle_03_01_02SHJ/alien01_r_tentacle_03_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_JawSHJ/alien01_head_JawEndSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/alien01_eye_pils/Paupiere
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_eye_01SHJ/Oeil
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_01_01SHJ/alien01_l_tentacle_head_01_02SHJ/alien01_l_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_02_01SHJ/alien01_l_tentacle_head_02_02SHJ/alien01_l_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_l_tentacle_head_03_01SHJ/alien01_l_tentacle_head_03_02SHJ/alien01_l_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_01_01SHJ/alien01_r_tentacle_head_01_02SHJ/alien01_r_tentacle_head_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_02_01SHJ/alien01_r_tentacle_head_02_02SHJ/alien01_r_tentacle_head_02_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_head_TopSHJ/alien01_r_tentacle_head_03_01SHJ/alien01_r_tentacle_head_03_02SHJ/alien01_r_tentacle_head_03_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_l_tentacle_04_01_01SHJ/alien01_l_tentacle_04_01_02SHJ/alien01_l_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_r_tentacle_04_01_01SHJ/alien01_r_tentacle_04_01_02SHJ/alien01_r_tentacle_04_01_03SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ
+        weight: 1
+      - path: alien01_ROOTSHJ/alien01_spine_01SHJ/alien01_spine_02SHJ/alien01_spine_03SHJ/alien01_spine_04SHJ/alien01_spine_TopSHJ/alien01_tentacle04bis_01_01SHJ/alien01_tentacle04bis_01_02SHJ/alien01_tentacle04bis_01_03SHJ
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 0
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

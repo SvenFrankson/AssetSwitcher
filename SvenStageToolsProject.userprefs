@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Tools\Skinning\Scripts\Editor\SkinnableObjectEditor.cs">
+    <Files>
+      <File FileName="Assets\Tools\Skinning\Scripts\SkinnableObject.cs" Line="121" Column="54" />
+      <File FileName="Assets\Tests\AssetBundle\Editor\AssetBundleExporter.cs" Line="12" Column="169" />
+      <File FileName="Assets\Tools\Skinning\Scripts\Editor\SkinnableObjectEditor.cs" Line="98" Column="120" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

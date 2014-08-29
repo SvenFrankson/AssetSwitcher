@@ -1,0 +1,32 @@
+#MeshToolBox
+
+## Ouvrir MeshToolBox
+- Dans le menu "Window", choisir "MeshToolBox"
+
+## Choisir un objet cible
+- Faire glisser l'objet cible dans la fenêtre "Cible" de MeshToolBox.
+-> Choisir l'objet parent le plus élevé dans la hierarchie parents-enfants, MeshToolBox recherchera les Mesh de tous les enfants pour effectuer les opérations.
+
+## Modifier le mesh
+- Choisir le nombre de subdivisions à effectuer.
+/!\ L'opération est potentiellement longue sur les meshes les plus complexes. De l'ordre de la minute pour un mesh de 10000 triangles pour obtenir 2 subdivisions.
+
+- Choisir le nombre de décimations à effectuer.
+-> Le coefficient associé à une décimation est un nombre sans unité qui détermine le nombre de points supprimés. Plus le coefficient est élevé, plus le nombre de vertices du mesh créé sera faible.
+-> Le "LOD Count" détermine le nombre de meshes différents qui seront générés. Le "LOD Coef" l'intensité de la décimation.
+-> Le "LOD Coef" ne doit pas être inférieur à 1.
+-> Il est plus "logique" de choisir des "LOD Coef" croissants.
+
+- Cliquer sur "Generate" pour calculer les nouveaux meshes.
+
+## Visualiser les modifications
+- Un composant "Mesh Switcher" a été ajouté à l'objet cible.
+- Il fait apparaitre un boutton par subdivision générée, un boutton "Base" et un boutton par décimation générée. (indiquant le nombre de triangles de chaque niveau de qualité du mesh).
+- Au clic sur un boutton, les meshs de tous les objets enfants de la cible sont remplacés par leur équivalent.
+/!\ Il est conseillé de supprimer le Mesh Switcher de l'objet AVANT d'utiliser à nouveau "MeshToolBox sur l'objet. A la suppression du MeshSwitcher, le mesh restera dans l'état de subdivision/lod dans lequel il est actuellement.
+/!\ En particulier, effectuer une subdivision sur un mesh déjà subdivisé peut être très long. Effectuer une subdivision d'un objet décimé entrainera une perte de qualité inutile.
+/!\ CONSEIL : Pour effectuer une opération sur un mesh qui contient un MeshSwitcher, cliquer sur "Base" pour réinitialiser les meshes", puis supprimer le mesh switcher.
+
+## Notes
+- Les Blendshapes ne peuvent pas être prises en compte à l'heure actuelle. Toute utilisation des blendshapes sur un mesh subdivisé ou décimé entrainera une erreur non bloquante pour Unity.
+(une version future de Unity permettra peut être de les prendre en compte).

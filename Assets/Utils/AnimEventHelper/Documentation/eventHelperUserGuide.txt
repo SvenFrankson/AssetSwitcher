@@ -1,0 +1,22 @@
+#Event Helper
+
+## Mise en place
+- Ajouter le script "Event Helper" sur l'objet cible.
+-> La cible est l'objet animé (possède un attribut Animator Controler)
+
+## Créer un évènement
+- Faire glisser une cible potentielle pour l'évènement dans le champ "New Event", puis cliquer sur le boutton "+".
+-> Une cible potentielle est :
+-> Un "Particle System" ou un objet possédant un "Particle System"
+-> Un "Animator Controler" ou un objet possédant un "Animator Controler"
+- Ajouter un évènement à l'animation (via le FBX généralement).
+-> Fonction : CZeroEvent
+-> Int : L'indice de l'évènement dans la liste des évènements de l'Event Helper (0 pour le premier, 1 pour le deuxième, etc...)
+
+### Cas des particules
+- L'évènement CZeroEvent avec l'indice i, pour i correspondant à un Particle System, appelera "Play" sur le Particle System.
+-> Dans le cas d'un Particle System qui boucle, la particule se répètera.
+
+### Cas des animator controler
+- Un nom de trigger doit être renseigné dans l'inspector de Event Helper
+- L'évènement CZeroEvent avec l'indice i, pour i correspondant à un Animator Controler, déclenchera le trigger renseigné sur l'animator controler.
